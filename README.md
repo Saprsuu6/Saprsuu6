@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **NodeJS, Angular, React**
 
-- 👯 I’m looking to collaborate on [Warp](https://github.com/warpdotdev/Warp)
-
 - 💬 Ask me about **.NET**
 
 - 📫 How to reach me **coffeei.2002@gmail.com**
