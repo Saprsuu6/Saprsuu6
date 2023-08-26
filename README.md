@@ -19,7 +19,9 @@
     </a>
   </div>
 
-  <img src="https://moe-counter.glitch.me/get/@:Saprsuu6?theme=rule34" alt=""/>
+  <br>
+
+  <img src="https://moe-counter.glitch.me/get/@:Saprsuu6?theme=rule34" alt="Count visiters"/>
   
   <h1 id="title">
     Hello everyone. My name is Andry and im front-end developer
