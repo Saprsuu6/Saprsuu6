@@ -41,7 +41,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :seedling: Exploring IOS front end development.
 - :zap: In my free time i trying to refactor my code to optimisate it.
 - 🎹: My hobbies is playing gutart, melodica, paino, singing.
----
+
+<hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -86,6 +87,8 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 <div>
   <img src="https://www.codewars.com/users/AndrySaprigin/badges/large" title="Codewars" alt="Codewars"/>&nbsp;
 </div>
+
+<hr>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saprsuu6&theme=dark&background=2b293d)](https://git.io/streak-stats)
