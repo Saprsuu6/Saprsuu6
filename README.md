@@ -2,8 +2,6 @@
   <div id="header">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
   </div>
-
-  <hr>
   
   <div id="badges" >
     <a href="https://www.linkedin.com/in/andrew-saprigin-437201282/">
