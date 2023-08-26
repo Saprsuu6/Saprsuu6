@@ -28,7 +28,7 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am a Full Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
+I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
 - :seedling: Exploring IOS front end development.
 - :zap: In my free time i trying to refactor my code to optimisate it.
