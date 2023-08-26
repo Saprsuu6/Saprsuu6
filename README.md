@@ -18,10 +18,8 @@
       <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Skype"/>
     </a>
   </div>
-  
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=Saprsuu6&style=flat-square&color=blue" alt="" />
-  </div>
+
+  <img src="https://moe-counter.glitch.me/get/@:Saprsuu6?theme=rule34" alt=""/>
   
   <h1 id="title">
     Hello everyone. My name is Andry and im front-end developer
