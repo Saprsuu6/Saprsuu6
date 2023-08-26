@@ -2,7 +2,7 @@
   <div id="header">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
   </div>
-  
+
   <hr>
   
   <div id="badges" >
@@ -33,6 +33,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :seedling: Exploring IOS front end development.
 - :zap: In my free time i trying to refactor my code to optimisate it.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-saprigin-437201282/) [![Telegram Badge](https://img.shields.io/badge/Telegram-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndrewSaprigin) [![Skype Badge](https://img.shields.io/badge/Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/NxnMcpBXz7ZV)
+- 🎹: My hobbies is playing gutart, melodica, paino, singing.
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
