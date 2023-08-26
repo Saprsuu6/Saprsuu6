@@ -2,10 +2,20 @@
   <div id="header">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
   </div>
+
+  <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Macondo&color=5BB0F7&lines=roses+are+red;violets+are+blue;unexpected+'%7B';on+line+32" alt="LinkedIn Badge"  width="300"/>
+    </a>
   
   <div id="badges" >
     <a href="https://www.linkedin.com/in/andrew-saprigin-437201282/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/AndrewSaprigin">
+      <img src="https://img.shields.io/badge/Telegram-green?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram"/>
+    </a>
+    <a href="https://join.skype.com/invite/NxnMcpBXz7ZV">
+      <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Skype"/>
     </a>
   </div>
   
@@ -30,7 +40,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - :telescope: I’m working as a Software Engineer and contributing to frontend for building web and mobile applications.
 - :seedling: Exploring IOS front end development.
 - :zap: In my free time i trying to refactor my code to optimisate it.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-saprigin-437201282/) [![Telegram Badge](https://img.shields.io/badge/Telegram-green?style=flat&logo=Telegram&logoColor=white)](https://t.me/AndrewSaprigin) [![Skype Badge](https://img.shields.io/badge/Skype-blue?style=flat&logo=Skype&logoColor=white)](https://join.skype.com/invite/NxnMcpBXz7ZV)
 - 🎹: My hobbies is playing gutart, melodica, paino, singing.
 ---
 
