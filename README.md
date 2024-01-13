@@ -24,7 +24,7 @@
   <img src="https://moe-counter.glitch.me/get/@:Saprsuu6?theme=rule34" alt="Count visiters"/>
   
   <h1 id="title">
-    Hello everyone. My name is Andry and im front-end developer
+    Hello everyone. My name is Andry and im developer
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
