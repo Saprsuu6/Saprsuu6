@@ -41,7 +41,7 @@
     </li>
   <li>
       <a href="https://drive.google.com/file/d/1a1frfr1cxVJYzOcGnE5ZOsRfFiEylsaX/view?usp=sharing">
-        <p>.NET deweloper resume</p>
+        <p>NodeJS deweloper resume</p>
       </a>
     </li>
 </ul>
