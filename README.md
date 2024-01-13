@@ -30,12 +30,12 @@
 
 <ul align="left">
   <li>
-      <a href="https://drive.google.com/file/d/1Y23K96JVEs9B7Z1UlPfO111I31Z_rdt-/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1YACXRbO2fSgsFd3cLdVwtJx-__wrbhU3/view?usp=sharing">
         <p>Android deweloper resume</p>
       </a>
     </li>
     <li>
-      <a href="https://drive.google.com/file/d/1YACXRbO2fSgsFd3cLdVwtJx-__wrbhU3/view?usp=sharing">
+      <a href="https://drive.google.com/file/d/1Y23K96JVEs9B7Z1UlPfO111I31Z_rdt-/view?usp=sharing">
         <p>.NET deweloper resume</p>
       </a>
     </li>
