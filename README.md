@@ -28,7 +28,20 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
-  <hr>
+<ul align="left">
+  <li>
+      <a href="https://github.com/Saprsuu6/Resumes/blob/main/.Net%20developer%20resume.pdf">
+        <p>Android deweloper resume</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://github.com/Saprsuu6/Resumes/blob/main/.Net%20developer%20resume.pdf">
+        <p>.NET deweloper resume</p>
+      </a>
+   </li>
+</ul>
+
+<hr>
 
   <div id="header">
     <img style="display: inline" src="https://media.giphy.com/media/l378bZUQJUWTr0MAU/giphy.gif" width="300"/>
