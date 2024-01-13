@@ -30,15 +30,20 @@
 
 <ul align="left">
   <li>
-      <a href="https://github.com/Saprsuu6/Resumes/blob/main/.Net%20developer%20resume.pdf">
+      <a href="https://drive.google.com/file/d/1Y23K96JVEs9B7Z1UlPfO111I31Z_rdt-/view?usp=sharing">
         <p>Android deweloper resume</p>
       </a>
     </li>
     <li>
-      <a href="https://github.com/Saprsuu6/Resumes/blob/main/.Net%20developer%20resume.pdf">
+      <a href="https://drive.google.com/file/d/1YACXRbO2fSgsFd3cLdVwtJx-__wrbhU3/view?usp=sharing">
         <p>.NET deweloper resume</p>
       </a>
-   </li>
+    </li>
+  <li>
+      <a href="https://drive.google.com/file/d/1a1frfr1cxVJYzOcGnE5ZOsRfFiEylsaX/view?usp=sharing">
+        <p>.NET deweloper resume</p>
+      </a>
+    </li>
 </ul>
 
 <hr>
