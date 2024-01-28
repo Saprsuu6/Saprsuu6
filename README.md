@@ -39,9 +39,14 @@
         <p>.NET deweloper resume</p>
       </a>
     </li>
-  <li>
+    <li>
       <a href="https://drive.google.com/file/d/1a1frfr1cxVJYzOcGnE5ZOsRfFiEylsaX/view?usp=sharing">
         <p>NodeJS deweloper resume</p>
+      </a>
+    </li>
+    <li>
+      <a href="https://drive.google.com/file/d/1a5aATrmUlgMDNzlhI6LU9ZpJp0HkAw9M/view?usp=sharing">
+        <p>FrontEnd Web deweloper resume</p>
       </a>
     </li>
 </ul>
