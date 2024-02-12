@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/07af8b9e-c9a1-496d-9ee3-44edd32e5801/deploy-status)](https://app.netlify.com/sites/saprland/deploys)
-
 <div align="center">
   <div id="header">
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
