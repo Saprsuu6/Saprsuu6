@@ -30,7 +30,7 @@
 
 <ul align="left">
   <li>
-      <a href="[https://saprland.netlify.app/](https://resumeclient-production.up.railway.app/)">
+      <a href="https://resumeclient-production.up.railway.app/">
         <p>Visit my site</p>
       </a>
   </li>
