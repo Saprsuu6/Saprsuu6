@@ -30,32 +30,32 @@
 
 <ul align="left">
   <li>
-      <a href="https://resumeclient-production.up.railway.app/" target="_blank">
+      <a href="https://resumeclient-production.up.railway.app/">
         <p>Visit my site</p>
       </a>
   </li>
   <li>
-      <a href="https://saprsuu6.github.io/Html-CssPractice/" target="_blank">
+      <a href="https://saprsuu6.github.io/Html-CssPractice/">
         <p>Native Html&Css&Js</p>
       </a>
   </li>
   <li>
-      <a href="https://drive.google.com/file/d/1YACXRbO2fSgsFd3cLdVwtJx-__wrbhU3/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1YACXRbO2fSgsFd3cLdVwtJx-__wrbhU3/view?usp=sharing">
         <p>Android deweloper resume</p>
       </a>
     </li>
     <li>
-      <a href="https://drive.google.com/file/d/1Y23K96JVEs9B7Z1UlPfO111I31Z_rdt-/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1Y23K96JVEs9B7Z1UlPfO111I31Z_rdt-/view?usp=sharing">
         <p>.NET deweloper resume</p>
       </a>
     </li>
     <li>
-      <a href="https://drive.google.com/file/d/1a1frfr1cxVJYzOcGnE5ZOsRfFiEylsaX/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1a1frfr1cxVJYzOcGnE5ZOsRfFiEylsaX/view?usp=sharing">
         <p>NodeJS deweloper resume</p>
       </a>
     </li>
     <li>
-      <a href="https://drive.google.com/file/d/1a5aATrmUlgMDNzlhI6LU9ZpJp0HkAw9M/view?usp=sharing" target="_blank">
+      <a href="https://drive.google.com/file/d/1a5aATrmUlgMDNzlhI6LU9ZpJp0HkAw9M/view?usp=sharing">
         <p>FrontEnd Web deweloper resume</p>
       </a>
     </li>
