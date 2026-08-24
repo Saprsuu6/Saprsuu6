@@ -8,7 +8,7 @@
     </a>
   
   <div id="badges" >
-    <a href="https://www.linkedin.com/in/andrew-saprigin-437201282/">
+    <a href="https://www.linkedin.com/in/andry-saprigin-a8605a332">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/AndrewSaprigin">
