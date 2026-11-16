@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Andrii%20Sapryhin&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%C2%B7%20Data%20Engineer%20%C2%B7%20Software%20Developer&descFontSize=20&descAlignY=62" width="100%" alt="Header" />
 
   <!-- Animated Typing Headline -->
-  <a href="https://saprland-12307.web.app/">
+  <a href="https://saprland-12307.web.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=4%2B+years+building+web+apps+%26+data+pipelines;React+%7C+TypeScript+%7C+Node.js;dbt+%7C+Apache+Airflow+%7C+Oracle+PL%2FSQL;Always+optimizing%2C+refactoring+%26+learning" alt="Typing SVG" />
   </a>
 
@@ -11,16 +11,16 @@
 
   <!-- Social & Quick Links -->
   <p align="center">
-    <a href="https://saprland-12307.web.app/" target="_blank">
+    <a href="https://saprland-12307.web.app/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-saprland--12307.web.app-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
     </a>
-    <a href="https://www.linkedin.com/in/andrew-saprigin-437201282" target="_blank">
+    <a href="https://www.linkedin.com/in/andry-saprigin-a8605a332" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://t.me/AndrewSaprigin" target="_blank">
+    <a href="https://t.me/AndrewSaprigin" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
-    <a href="mailto:saprygin.2002@gmail.com">
+    <a href="mailto:saprygin.2002@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
   </p>
@@ -40,7 +40,7 @@ role: Full-Stack & Data Engineer
 experience: 4+ years
 stack_focus: Modern Web (React / TypeScript / Node) & Data Engineering (dbt / SQL / Airflow)
 location: Ukraine
-hobbies: Playing Guitar 🎸, Piano 🎹, Melodica 🎶, Audio Production 🎧
+interests: Music & Multi-instrumental Sound Production 🎵
 ```
 
 - 🔭 **What I do:** Full-Stack developer with solid hands-on experience in Oracle PL/SQL and Data Engineering. Over 4+ years delivering 30+ client and enterprise solutions.
@@ -48,7 +48,7 @@ hobbies: Playing Guitar 🎸, Piano 🎹, Melodica 🎶, Audio Production 🎧
 - ⚙️ **Backend & Cloud:** Designing clean APIs and robust architectures with **Node.js**, **C# / .NET**, **Python**, and **Firebase / GCP**.
 - 📊 **Data Engineering:** Architecting ETL/ELT pipelines with **dbt** & **Apache Airflow**, optimizing complex **Oracle PL/SQL** & **PostgreSQL** queries, and modeling data warehouses.
 - 📱 **Mobile & Exploration:** Experimenting with **Swift** (iOS) and **Kotlin** (Android).
-- 🌐 **Interactive Portfolio:** Explore my interactive resume and projects at [saprland-12307.web.app](https://saprland-12307.web.app/).
+- 🌐 **Interactive Portfolio:** Explore my interactive resume and projects at <a href="https://saprland-12307.web.app/" target="_blank" rel="noopener noreferrer">saprland-12307.web.app</a>.
 
 ---
 
@@ -56,21 +56,21 @@ hobbies: Playing Guitar 🎸, Piano 🎹, Melodica 🎶, Audio Production 🎧
 
 #### 🌐 Frontend Development
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,vue,angular,html,css,tailwind,sass,redux&perline=11" alt="Frontend Stack" />
   </a>
 </p>
 
 #### ⚙️ Backend & Cloud
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,cs,python,firebase,gcp,docker,linux&perline=10" alt="Backend Stack" />
   </a>
 </p>
 
 #### 🗄️ Databases & Data Engineering
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=10" alt="Databases" />
   </a>
 </p>
@@ -84,36 +84,19 @@ hobbies: Playing Guitar 🎸, Piano 🎹, Melodica 🎶, Audio Production 🎧
 
 #### 📱 Mobile, Tools & DevOps
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=swift,kotlin,java,git,github,postman,vscode,androidstudio&perline=10" alt="Mobile and Tools" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Tech & Problem Solving
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Saprsuu6&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saprsuu6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Saprsuu6&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saprsuu6&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="95%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.codewars.com/users/AndrySaprigin" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Saprsuu6&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br/><br/>
+  <a href="https://www.codewars.com/users/AndrySaprigin" target="_blank" rel="noopener noreferrer">
     <img src="https://www.codewars.com/users/AndrySaprigin/badges/large" alt="Codewars Badge" />
   </a>
 </div>
